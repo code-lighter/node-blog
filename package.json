@@ -1,0 +1,19 @@
+{
+  "name": "puzzle",
+  "version": "1.0.0",
+  "description": "Crossword  Game developed By Hemant Jindal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hemant Jindal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-edge": "^2.0.2",
+    "express-fileupload": "^1.2.0",
+    "mongoose": "^5.10.9",
+    "startbootstrap-clean-blog": "^5.0.9"
+  }
+}
